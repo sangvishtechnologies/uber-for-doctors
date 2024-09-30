@@ -49,6 +49,9 @@ The app is easy to use to onboard healthcare professionals; it promptly helps do
 * **In-app Chat**
 
 Many of them consist of messaging functions by which patients can ask some additional or follow-up questions, which saves time considerably.
+
+<div class="Box-sc-g0xbh4-0 iIZCet"><img alt=“urbanclapclone.png" src="https://github.com/sangvishtechnologies/uber-for-doctors/blob/main/images/doctors-app-like-uber-2.png" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI"></div>
+
 ## Benefits of Uber for Doctor
 * **Convenience for Patients**
 
@@ -93,9 +96,6 @@ Enhanced Patient Experience
 [Uber for Doctors App ](https://sangvish.com/uber-for-doctors/)not only provides convenience but also improves the patient experience in multiple ways.
 ### Increased Patient Engagement: 
 Platforms can offer educational information and tools to help people take an active role in managing their health.
-
-<div class="Box-sc-g0xbh4-0 iIZCet"><img alt=“urbanclapclone.png" src="https://github.com/sangvishtechnologies/uber-for-doctors/blob/main/images/doctors-app-like-uber-2.png" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI"></div>
-
 ### Improved Communication: 
 Secure messaging tools allow regular interaction with doctors, improving patient-doctor relationships and addressing issues quickly.
 ### Streamlined Medical Records: 
